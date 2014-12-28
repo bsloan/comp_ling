@@ -1,4 +1,4 @@
 linguistics
 ===========
 
-Short scripts I've used for linguistics-related research
+some linguistics-related scripts, research, tinkering, homework
